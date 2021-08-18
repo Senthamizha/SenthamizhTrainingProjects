@@ -1,2 +1,0 @@
-# SenthamizhTrainingProjects
-Training Tasks
